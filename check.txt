@@ -6,6 +6,5 @@ hi sandesh
 
 verfiy the new change now
 
-merge conflict
-
+develpe merge
 
